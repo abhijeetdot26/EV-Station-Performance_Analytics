@@ -24,3 +24,8 @@ The project utilizes a 3-table relational star schema optimized for rapid analyt
 ## How to Run the Queries
 1. Import the source CSV tables located in this repository into your local MySQL schema.
 2. Execute the optimized analytical scripts found in `queries.sql` to generate the raw operational performance metrics.
+## Dataset Availability
+The 1,000-row synthetic relational dataset used to power this project is included directly in this repository:
+* `dataset_stations.csv` (Station dimension data)
+* `dataset_batteries.csv` (Battery asset dimension data)
+* `dataset_transactions.csv` (Core transaction fact data)
