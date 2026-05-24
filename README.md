@@ -19,7 +19,7 @@ The project utilizes a 3-table relational star schema optimized for rapid analyt
 * **Underutilized Infrastructure:** Cross-referencing transaction frequency against station hardware sizes identified that certain stations maintained high slot capacities but operated at low daily utilization rates, presenting a clear optimization opportunity to redeploy assets to higher-demand zones.
 
 ## Dashboard Preview
-![Executive Dashboard Preview](dashboard_preview.png)
+![Executive Dashboard Preview](dashboard_preview1.png)(dashboard_preview2.png)
 
 ## How to Run the Queries
 1. Import the source CSV tables located in this repository into your local MySQL schema.
