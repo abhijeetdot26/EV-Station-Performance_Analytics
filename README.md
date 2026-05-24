@@ -1,4 +1,4 @@
-# EV Station Performance Analytics ⚡🔋
+# EV Station Performance Analytics 
 
 ## Project Overview
 This project simulates real-world business intelligence reporting for an electric vehicle (EV) battery swapping startup. Working with a relational dataset of 1,000 transactions, I mapped operations across physical swap stations and battery health lifecycle metrics to identify critical throughput bottlenecks and maximize asset utilization.
